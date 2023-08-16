@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_empty="true">
+        <layer-list>
+            <item
+                android:width="20dp"
+                android:height="20dp"
+                android:gravity="center"
+                android:top="4dp"
+                android:drawable="@drawable/baseline_arrow_downward_24">
+            </item>
+        </layer-list>
+    </item>
+    <item android:state_expanded="true">
+        <layer-list>
+            <item
+                android:width="20dp"
+                android:height="20dp"
+                android:gravity="center"
+                android:top="4dp"
+                android:drawable="@drawable/baseline_arrow_upward_24" />
+        </layer-list>
+    </item>
+</selector>
