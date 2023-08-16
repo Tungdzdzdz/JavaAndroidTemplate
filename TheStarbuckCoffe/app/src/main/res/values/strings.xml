@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Starbuck Coffee</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bg1">Tropical cooldown</string>
+    <string name="bg2">Now 50% off cold drinks</string>
+    <string name="bg3">Summer to the max</string>
+    <string name="bg4">Be kind to your mind</string>
+    <string name="Quanity">Write your quanity</string>
+    <string name="Note">Customize for you</string>
+</resources>
